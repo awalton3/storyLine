@@ -1,6 +1,8 @@
 # storyLine
 #### The novel web app that blends creative writing with social media.
 
+
+
 ## Who are we?
 
 Do you like reading or writing fiction but feel like you never have the time?
