@@ -24,6 +24,8 @@ But at storyLine, we believe that stories are meant to be shared. This is why we
 ## Our Content Source
 Our data will be sourced from real people. We have created a Google Form that contains several different one liners to inspire a short story. The form also collects participants' email addresses and desired usernames so that we can create their storyLine account. We also give contributors the option to have their story appear on our site anonymously. Additionally, we are collecting one liners through these form submissions, which we'll use to repopulate oneliner options periodically.
 
-Here is the link to our Google Form!
+Here is the link to our Google Form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeHWO8JkuOGNIMW0AxCLRqqqNKsqoff1xWF0iQbt4_petUZOg/viewform?usp=sf_link
 
 
