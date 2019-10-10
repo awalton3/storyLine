@@ -1,27 +1,29 @@
-# StoryLine
+# storyLine
+#### The novel web app that blends creative writing with social media.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Who are we?
 
-## Code scaffolding
+Do you like reading or writing fiction but feel like you never have the time?
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+We are creating a web app where users can post single lines of their creation, from books, from movies, etc. and other users can write brief stories, 1000 words or less, that include that single line.
 
-## Build
+Our app will be a fun and inspiring way to read short pieces of writing and see different people's perspectives on the same initial starting point. Users can upvote stories or one liners they like, and follow writers they enjoy reading.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Why should you use our app?
 
-## Running unit tests
+Maybe you like reading but are too busy to pick up that novel.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Maybe you like writing but don't know where to start.
 
-## Running end-to-end tests
+storyLine is the place where you can take a break from your busy routine and let your imagination wander. Many existing writing sites focus on honing your individual craft.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+But at storyLine, we believe that stories are meant to be shared. This is why we are committed to creating the first social media app that will connect people through the power of storytelling, a craft that should not be lost in the digital age, but amplified.
 
-## Further help
+## Our Content Source
+Our data will be sourced from real people. We have created a Google Form that contains several different one liners to inspire a short story. The form also collects participants' email addresses and desired usernames so that we can create their storyLine account. We also give contributors the option to have their story appear on our site anonymously. Additionally, we are collecting one liners through these form submissions, which we'll use to repopulate oneliner options periodically.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Here is the link to our Google Form!
+
+
